@@ -1,0 +1,1 @@
+# kubetraining2026
