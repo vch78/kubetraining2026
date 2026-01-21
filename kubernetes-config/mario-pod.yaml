@@ -1,4 +1,4 @@
-apiVersion: v1
+kubectl describe podapiVersion: v1
 kind: Pod
 metadata:
   name: supermario-pod
